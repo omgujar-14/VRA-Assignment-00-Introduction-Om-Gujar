@@ -38,14 +38,9 @@ Input  →  PLC → Output  → SCADA
 
 Explain the meaning of each stage:
 
-`[### Q4. Meaning of Each Automation Sequence
-
-1. Input – Sensors or switches collect information from the machine or process, such as temperature, level, or pressure.
-
+`[1. Input – Sensors or switches collect information from the machine or process, such as temperature, level, or pressure.
 2. PLC – The PLC receives the input, checks the programmed logic, and decides what action should be taken.
-
 3. Output – Based on the PLC decision, output devices such as motors, pumps, valves, or lights perform the required action.
-
 4. SCADA – SCADA monitors the whole process and shows the machine status and important data on a computer screen for the operator.
 ]`
 
