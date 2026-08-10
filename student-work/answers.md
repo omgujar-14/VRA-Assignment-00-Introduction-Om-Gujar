@@ -51,7 +51,7 @@ Explain the meaning of each stage:
 ### Q5. Expand PLC and explain why it is called an industrial computer. (5 marks)
 
 `[
-PLC stands for Programmable Logic Controller. It is an industrial device used to control machines and automatic processes. It is called an **industrial computer** because it can receive input from sensors, process the information using a program, and control output devices like motors, pumps, and valves. PLCs are specially designed to work in harsh industrial environments and can operate continuously with high reliability.
+PLC stands for Programmable Logic Controller. It is an industrial device used to control machines and automatic processes. It is called an industrial computer because it can receive input from sensors, process the information using a program, and control output devices like motors, pumps, and valves. PLCs are specially designed to work in harsh industrial environments and can operate continuously with high reliability.
 ]`
 
 ### Q6. Classify each device as a PLC input or PLC output. (5 marks)
@@ -73,7 +73,7 @@ PLC stands for Programmable Logic Controller. It is an industrial device used to
 ### Q8. What is a PLC scan cycle? Why must it repeat continuously? (5 marks)
 
 `[
-A PLC scan cycle is the process in which a PLC reads the input signals, executes the programmed logic, and updates the output devices. This process happens in a fixed sequence: **Input Scan → Program Scan → Output Scan**. The scan cycle repeats continuously so that the PLC can monitor changes in the machine and respond quickly. Continuous scanning helps the machine work automatically and safely.
+A PLC scan cycle is the process in which a PLC reads the input signals, executes the programmed logic, and updates the output devices. This process happens in a fixed sequence: Input Scan → Program Scan → Output Scan. The scan cycle repeats continuously so that the PLC can monitor changes in the machine and respond quickly. Continuous scanning helps the machine work automatically and safely.
 ]`
 
 ### Q9. Identify the PLC section responsible for each function. (4 marks)
